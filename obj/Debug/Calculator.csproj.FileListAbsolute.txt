@@ -1,0 +1,10 @@
+E:\winter 2020\object oriented programming using C#\Project\Calculator\bin\Debug\Calculator.exe.config
+E:\winter 2020\object oriented programming using C#\Project\Calculator\bin\Debug\Calculator.exe
+E:\winter 2020\object oriented programming using C#\Project\Calculator\bin\Debug\Calculator.pdb
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.Form1.resources
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.exe
+E:\winter 2020\object oriented programming using C#\Project\Calculator\obj\Debug\Calculator.pdb

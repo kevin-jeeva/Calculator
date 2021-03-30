@@ -1,0 +1,17 @@
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Calculator_UnitTest.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Calculator_UnitTest.pdb
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Calculator.exe
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Calculator.pdb
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Calculator.exe.config
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\obj\Debug\Calculator_UnitTest.csprojAssemblyReference.cache
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\obj\Debug\Calculator_UnitTest.csproj.CoreCompileInputs.cache
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\obj\Debug\Calculator_UnitTest.csproj.CopyComplete
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\obj\Debug\Calculator_UnitTest.dll
+E:\winter 2020\object oriented programming using C#\Project\Calculator Project\Calculator Application\Calculator_UnitTest\obj\Debug\Calculator_UnitTest.pdb
